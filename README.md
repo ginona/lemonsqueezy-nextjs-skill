@@ -10,10 +10,10 @@ A Claude skill for debugging Lemon Squeezy payment flows in Next.js apps deploye
 - Environment variable mismatches between local and deployed infra
 
 ## Install
+```bash
+   npx skills add ginona/lemonsqueezy-nextjs-skill
+```
 
-\`\`\`bash
-npx skills add tuuser/lemonsqueezy-nextjs-skill
-\`\`\`
 
 ## Stack
 Next.js 14 · App Router · Lemon Squeezy · Vercel · Supabase
